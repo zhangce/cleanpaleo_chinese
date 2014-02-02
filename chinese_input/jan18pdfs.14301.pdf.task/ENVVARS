@@ -1,0 +1,11 @@
+chtcruntop = /scratch/czhang/journal_wrapper/ChtcRun
+cmdtorun = sh do.sh
+file = jan18pdfs.14301.pdf.task
+jobfolder = /scratch/czhang/journal_wrapper/ChtcRun/jan29_chinese/jan18pdfs.14301.pdf.task/
+jobsubdag = /scratch/czhang/journal_wrapper/ChtcRun/RS_jan29_chinese.29/jan18pdfs.14301.pdf.task/jan18pdfs.14301.pdf.task_dag
+jobtemplateloc = /scratch/czhang/journal_wrapper/ChtcRun
+passtochtcwrapper = 
+runfolder = /scratch/czhang/journal_wrapper/ChtcRun/RS_jan29_chinese.29/jan18pdfs.14301.pdf.task/
+sharedfolder = /scratch/czhang/journal_wrapper/ChtcRun/jan29_chinese/shared/
+submitfileloc = /scratch/czhang/journal_wrapper/ChtcRun/RS_jan29_chinese.29/jan18pdfs.14301.pdf.task
+type = Other

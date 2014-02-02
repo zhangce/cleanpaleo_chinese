@@ -1,0 +1,3 @@
+JOB jan18pdfs.14301.pdf.task process.cmd dir jan18pdfs.14301.pdf.task
+SCRIPT POST jan18pdfs.14301.pdf.task /scratch/czhang/journal_wrapper/ChtcRun/postjob.pl
+RETRY jan18pdfs.14301.pdf.task 10

@@ -1,0 +1,58 @@
+_CONDOR_ANCESTOR_8554=8621:1389622754:3142145610
+_CONDOR_ANCESTOR_4135=2570:1391069147:2619731149
+_CONDOR_ANCESTOR_4578=4135:1390265854:4262485243
+_CONDOR_ANCESTOR_2570=2620:1391069148:2305616948
+_CONDOR_ANCESTOR_8621=18370:1391069080:48815706
+PATH=/usr/local/bin:/usr/kerberos/bin:/usr/bin:/bin
+_CONDOR_DAGMAN_LOG=/scratch/czhang/journal_wrapper/ChtcRun/RS_jan29_chinese.29/mydag.dag.dagman.out
+MAIL=/var/spool/mail/czhang
+LD_LIBRARY_PATH=:/progs/czhang/sigmod_repeat/Elementary0.3/Elementary0.3/lib/urcu/lib/:/progs/czhang/software/gcc/lib64/:/progs/czhang/software/gcc/lib/:/scratch/shriram/0.3/Elementary0.3/lib/urcu/lib/:/raid/czhang/software/mysql/lib/
+CVS_RSH=ssh
+LANG=en_US.UTF-8
+_CONDOR_SLOT=slot1
+SSH_CONNECTION=99.43.40.118 56773 144.92.142.172 22
+PERL5OPT=-I/mnt/ws/home/czhang/perl/lib/perl5 -I/mnt/ws/home/czhang/perl/share/perl5
+_CONDOR_SCHEDD_ADDRESS_FILE=/var/lib/condor/spool/.schedd_address
+TMPDIR=/var/lib/condor/execute/dir_2570
+_CONDOR_SCRATCH_DIR=/var/lib/condor/execute/dir_2570
+_CONDOR_JOB_IWD=/var/lib/condor/execute/dir_2570
+TEMP=/var/lib/condor/execute/dir_2570
+QTINC=/usr/lib64/qt-3.3/include
+_CONDOR_SCHEDD_DAEMON_AD_FILE=/var/lib/condor/spool/.schedd_classad
+SSH_CLIENT=99.43.40.118 56773 22
+SHELL=/bin/bash
+_CONDOR_JOB_PIDS=
+PWD=/raid/czhang/journal_wrapper/ChtcRun/RS_jan29_chinese.29
+_=/usr/bin/condor_submit_dag
+QTDIR=/usr/lib64/qt-3.3
+SSH_TTY=/dev/pts/2
+_CONDOR_DAGMAN_CONFIG_FILE=/scratch/czhang/journal_wrapper/ChtcRun/RS_jan29_chinese.29/dagman_config
+QTLIB=/usr/lib64/qt-3.3/lib
+MASTER_DATA_DIRECTORY=/scratch/shriram/greenplum-data/master/gp-1
+USER=czhang
+HISTSIZE=1000
+LESSOPEN=|/usr/bin/lesspipe.sh %s
+G_BROKEN_FILENAMES=1
+TMP=/var/lib/condor/execute/dir_2570
+_CONDOR_MAX_DAGMAN_LOG=0
+HISTCONTROL=ignoredups
+CONDOR_ID=1481817.0
+_CONDOR_JOB_AD=/var/lib/condor/execute/dir_2570/.job.ad
+SHLVL=1
+CONDOR_PARENT_ID=opt-a012:18370:1391069080
+HOSTNAME=opt-a012.discovery.wisc.edu
+HOME=/mnt/ws/home/czhang
+TERM=xterm-256color
+CHTCUTILS=/usr/share/chtc-utils
+OLDPWD=/raid/czhang/journal_wrapper/ChtcRun
+_CONDOR_MACHINE_AD=/var/lib/condor/execute/dir_2570/.machine.ad
+LOGNAME=czhang
+MachineAdTest: looking for <IsEuclid>
+Euclid test returned <no>
+Calling curl to fetch chtcinnerwrapper try 0
+Curl error <0>
+MachineAdTest: looking for <IsEuclid>
+Euclid test returned <no>
+Trying to open logfile... ChtcWrapperjan18pdfs.14301.pdf.task.out
+Done Running chtcinnerwrapper Result was <0>
+All went well!
